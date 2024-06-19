@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Genetic Logic Lab
+title: testlab
 
 # Username (this should match the folder name)
 authors:
@@ -18,7 +18,7 @@ superuser: true
 
 # Organizations/Affiliations
 organizations:
-- name: University of Colorado Boulder
+- name: CQUPT
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
